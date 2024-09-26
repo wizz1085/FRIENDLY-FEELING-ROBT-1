@@ -1,5 +1,5 @@
 # FRIENDLY-FEELING-ROBT
-Es un robot compañero el cual te brinda amistad y compañia e interactua con el usuario , de esta manera mejorando el estado de animo del usuario.
+Es un robot compañero el cual te brinda amistad y compañia e interactua con el usuario , por medio de una aplicacion el robot reproduce musica , se maneja por el control de la aplicacion, tambien interactua contigo cuando le hablas cambiando el color de sus ojitos de esta manera mejorando el estado de animo del usuario.
 # INTEGRANTES
 .Isabella Micolta Del Guercio
 .Maryuri catalina medina rojas
