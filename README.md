@@ -10,8 +10,9 @@ Es un robot compañero el cual te brinda amistad y compañia e interactua con el
 Presentamos friendly feeling robt como una alternativa la cual ayuda con la soledad, depresion ,ansiedad, el prototipo tiene como proposito por medio de su diseño ser util y de facil movilidad, el cual tiene su diseño circular como objetivo de poder acompañarte a todos lados, pensado como solucion al estres y ayudar a las personas antisociales o introvertidas a poder comunicarse mejor o ser personas mas abiertas, para facilitar la socializacion con su entorno.
 
 # OBJETIVOS
-.Proveer apoyo emocional mediante un dispositivo que reacciona positivamente a estímulos y comandos.
-.                                                                                                                                                                          
+.Proveer apoyo emocional mediante un dispositivo que reacciona positivamente a estímulos y comandos
+
+
 Crear una experiencia positiva y útil para el usuario mejorar el estado de ánimo del usuario.
                                                                                                                                                                       
 .Facilitar la integración de la tecnología robótica en la vida cotidiana.
