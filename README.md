@@ -1,9 +1,9 @@
 # FRIENDLY-FEELING-ROBT
 Es un robot compañero el cual te brinda amistad y compañia e interactua con el usuario , de esta manera mejorando el estado de animo del usuario.
 # INTEGRANTES
-. Isabella Micolta Del Guercio
-. Maryuri catalina medina rojas
-. Nicolas palacios quimbayo
+.Isabella Micolta Del Guercio
+.Maryuri catalina medina rojas
+.Nicolas palacios quimbayo
 # DESCRIPCION
 Presentamos friendly feeling robt como una alternativa la cual ayuda con la soledad, depresion ,ansiedad, el prototipo tiene como proposito por medio de su diseño ser util y de facil movilidad, el cual tiene su diseño circular como objetivo de poder acompañarte a todos lados, pensado como solucion al estres y ayudar a las personas antisociales o introvertidas a poder comunicarse mejor o ser personas mas abiertas, para facilitar la socializacion con su entorno.
 
