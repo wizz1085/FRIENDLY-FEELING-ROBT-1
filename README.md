@@ -23,5 +23,3 @@ Desarrollar un dispositivo interactivo y accesible que, mediante la integración
 # ALCANCE DEL PROYECTO
 aproximadamente se tiene estimado que lo puedan adquirir personas entre los 12-65 años, lo cual es un estima del  33.6 y 36 millones de personas en Colombia , porcentualmente estariamos hablando de 75% de la poblacion colombiana, asi que el proyecto abarca ampliamente el mercado nacional.
 
-# LINK VIDEO PROYECTO
-https://youtu.be/juWURxnzSGI
